@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['scan_5fphys',['scan_phys',['../structble__gap__scan__params__t.html#a369859ca03e34c8220452ae95d1aa02f',1,'ble_gap_scan_params_t']]],
+  ['scan_5fresponse',['scan_response',['../structble__gap__adv__report__type__t.html#ad15997f48de870abecfe17e57a0fd835',1,'ble_gap_adv_report_type_t']]],
+  ['scannable',['scannable',['../structble__gap__adv__report__type__t.html#a43f966fbca4f9edabf1a97b74cd3225f',1,'ble_gap_adv_report_type_t']]],
+  ['sccd_5fhandle',['sccd_handle',['../structble__gatts__char__handles__t.html#a0ebe446f83e8675203f224b1796939fa',1,'ble_gatts_char_handles_t']]],
+  ['sec_5fmode',['sec_mode',['../structble__gap__conn__sec__t.html#ada618e26f99059e7ccbe5be9f5d1049d',1,'ble_gap_conn_sec_t']]],
+  ['sec_5fparams_5frequest',['sec_params_request',['../structble__gap__evt__t.html#a81655f9c7ebe0619f5eeadbbf9df42b2',1,'ble_gap_evt_t']]],
+  ['sec_5frequest',['sec_request',['../structble__gap__evt__t.html#a1cf0e4a70ec31a04805c52af0059a1e5',1,'ble_gap_evt_t']]],
+  ['secondary_5fphy',['secondary_phy',['../structble__gap__evt__adv__report__t.html#ac1ce5f18f0a230a38213c7ffbc6de62c',1,'ble_gap_evt_adv_report_t']]],
+  ['server_5frx_5fmtu',['server_rx_mtu',['../structble__gattc__evt__exchange__mtu__rsp__t.html#a3a5d026f6f5ceddd98195e1a9ce0492b',1,'ble_gattc_evt_exchange_mtu_rsp_t']]],
+  ['service_5fchanged',['service_changed',['../structble__gatts__cfg__service__changed__t.html#aff00048cea02feae4a6d7e1552e3591a',1,'ble_gatts_cfg_service_changed_t::service_changed()'],['../unionble__gatts__cfg__t.html#af61314649451858893bab3c659fd13da',1,'ble_gatts_cfg_t::service_changed()']]],
+  ['services',['services',['../structble__gattc__evt__prim__srvc__disc__rsp__t.html#ade86618d036b675b570e0f92d95e9755',1,'ble_gattc_evt_prim_srvc_disc_rsp_t']]],
+  ['set_5fid',['set_id',['../structble__gap__evt__adv__report__t.html#a8536ad3cdd02315402cf90dc9da1081a',1,'ble_gap_evt_adv_report_t']]],
+  ['sign',['sign',['../structble__gap__sec__kdist__t.html#a91ecd2873c5ed1bd4902929bb9194c9e',1,'ble_gap_sec_kdist_t']]],
+  ['skip_5fcount',['skip_count',['../structble__gap__qos__rssi__t.html#ae55b89f6e2df8b20b74926248c8c12c3',1,'ble_gap_qos_rssi_t']]],
+  ['slave_5flatency',['slave_latency',['../structble__gap__conn__params__t.html#aa5caf55715aaac33f56cc996f91a92cc',1,'ble_gap_conn_params_t']]],
+  ['sm',['sm',['../structble__gap__conn__sec__mode__t.html#ab1014e45933756f4e790ef8181730f7f',1,'ble_gap_conn_sec_mode_t']]],
+  ['sm1_5flevels',['sm1_levels',['../structble__gap__evt__auth__status__t.html#a6843023d29415f3ede4471a9fe359acf',1,'ble_gap_evt_auth_status_t']]],
+  ['sm2_5flevels',['sm2_levels',['../structble__gap__evt__auth__status__t.html#a29d62f41ca47daabc4098310ceffd4e1',1,'ble_gap_evt_auth_status_t']]],
+  ['source',['source',['../structnrf__clock__lf__cfg__t.html#af5d317705e2f53ed81c81bc8c1fcd4ec',1,'nrf_clock_lf_cfg_t']]],
+  ['src',['src',['../structble__gap__evt__timeout__t.html#a956b696e25efbd2d7badc93da691a049',1,'ble_gap_evt_timeout_t::src()'],['../structble__gattc__evt__timeout__t.html#a445daba867e5aef62f251e31e8972d63',1,'ble_gattc_evt_timeout_t::src()'],['../structble__gatts__evt__timeout__t.html#a400157c31004116309fd4c33afeedb72',1,'ble_gatts_evt_timeout_t::src()'],['../structsd__mbr__command__copy__sd__t.html#a7fab268f5a8db5b0ccc3a4b85d47c0b7',1,'sd_mbr_command_copy_sd_t::src()']]],
+  ['start_5fhandle',['start_handle',['../structble__gattc__handle__range__t.html#a091b1b8aeda9dcc211ec3f44d6832c51',1,'ble_gattc_handle_range_t']]],
+  ['status',['status',['../structble__gap__adv__report__type__t.html#a9c75def4d2cba76b50d25210c0c30e30',1,'ble_gap_adv_report_type_t::status()'],['../structble__gap__evt__phy__update__t.html#a88a9519abba82f618dd9189698eb367d',1,'ble_gap_evt_phy_update_t::status()']]],
+  ['subversion_5fnumber',['subversion_number',['../structble__version__t.html#abd81a16510bfbcf3778af4daab021369',1,'ble_version_t']]],
+  ['sys_5fattr_5fmissing',['sys_attr_missing',['../structble__gatts__evt__t.html#ab8c7e34509068fb9d8b78e4cdc2ab0f2',1,'ble_gatts_evt_t']]]
+];
